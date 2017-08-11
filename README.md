@@ -1,5 +1,5 @@
 <h1> Welcome to the RandomlyAssortedMods Website </h1>
-<p>As of now this website will only have links to the mods offical wiki | places from which you can download my mod/s | and the source code for my mod</p>
+<p>As of now this website will only have links to the mods offical wiki | places from which you can download my mod/s | and the source code for my mod | and a discord chat for those who care</p>
 
 
 
@@ -25,9 +25,12 @@
 			<tr><td><h3><a href="https://github.com/Trhod17/Randomly-Assorted-Items-Mod/wiki">RandomlyAssortedMods Official Wiki</a></h3></td></tr>
             <br>
             <br>
-			<tr><td> <h2></h2> Source Code</td> </tr>
+			<tr><td> <h2> Source Code</h2></td> </tr>
 			<tr><td> <h3><a href="https://github.com/Trhod17/Randomly-Assorted-Items-Mod">RandomlyAssortedItems Mod</a></h3></td></tr>
-
+                   <br>
+		   <br>
+		   <tr><td><h2> Discord Chat </h2></td</tr>
+		   <tr><td><h3><a href="https://discord.gg/teaAdH9">Discord Chat</h3></td></tr>
 		
 	</tbody>
 </table>

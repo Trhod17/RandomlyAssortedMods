@@ -29,8 +29,8 @@
 			<tr><td> <h3><a href="https://github.com/Trhod17/Randomly-Assorted-Items-Mod">RandomlyAssortedItems Mod</a></h3></td></tr>
                    <br>
 		   <br>
-		   <tr><td><h2> Discord Chat </h2></td</tr>
-		   <tr><td><h3><a href="https://discord.gg/teaAdH9">Discord Chat</h3></td></tr>
+		   <tr><td><h2> Discord Chat </h2></td></tr>
+		   <tr><td><h3><a href="https://discord.gg/teaAdH9">Discord Chat</a></h3></td></tr>
 		
 	</tbody>
 </table>

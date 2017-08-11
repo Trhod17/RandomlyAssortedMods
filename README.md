@@ -1,6 +1,5 @@
 <h1> Welcome to the RandomlyAssortedMods Website </h1>
-<p>As of now this website will only have links to the mods offical wiki <br>
-places from which you can download my mod/s</p>
+<p>As of now this website will only have links to the mods offical wiki | places from which you can download my mod/s | and the source code for my mod</p>
 
 
 

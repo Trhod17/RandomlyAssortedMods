@@ -3,7 +3,7 @@
 
 
 
-<div class="list">
+
 <table>
 	
 	<thead>
@@ -18,7 +18,7 @@
              <br>
              <br>
 			<tr><td> <h2>Curse Forge</h2> </td> </tr>
-			<tr><td> <iframe src="https://widget.mcf.li/mc-mods/minecraft/272455-rai-randomly-assorted-items" width="200%" style="border: none;"></iframe> </td></tr>
+			<tr><td> <iframe src="https://widget.mcf.li/mc-mods/minecraft/272455-rai-randomly-assorted-items" width="100%" style="border: none;"></iframe> </td></tr>
              <br>
              <br>
 			<tr><td><h2>Wiki</h2></td></tr>
@@ -32,15 +32,5 @@
 	</tbody>
 </table>
 	
-	      
-	      	
-	   
 
 
-</div>
-
-<style type="text/css" media="screen">
-      .list {
-
-      }
-</style>

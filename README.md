@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-
+<title>Trhod177's Mod</title>
 <html>
 <head>
-	<title>Trhod177's Mod</title>
+	
 	<h1>Trhod177's Mods</h1>
 </head>
 <body>
